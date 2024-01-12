@@ -3,3 +3,4 @@ In this project a U-Net based model was designed to produce high quality images 
 
 In the end we reached a trained model with an accuracy of 98 percent which is a very good result considering the challenges we faced in this problem.
 You can find the .zip file of the data used to train and test the model in this project [here](https://drive.google.com/file/d/10xoPv8EapUCVTQF4nG-oUOfA9Ju2VYKI/view?usp=drive_link).
+You can find the best model that was used for testing [here](https://drive.google.com/file/d/1ncYFncK1h4JC4OqgMyZbRWIf2THp-t8Z/view?usp=drive_link).
